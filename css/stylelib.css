@@ -6,7 +6,7 @@
     --section-bg1: #86BBD8;
     --section-bg2: #33658A;
     --footer-color: #000000;
-    --btn-color: #f37121;
+    --btn-color: #ff073d;
 }
 
 
@@ -134,16 +134,19 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
     font-weight: bold;
-    margin-left: 0.1rem;
-    margin-right: 0.1rem;
+    /* margin: auto; */
+    /* margin-left: 45%;
+    margin-right: 45%; */
+    /* display: flex;
+    justify-content: center; */
 }
 
 .last-line {
-    background-color: #000000;
-    color: white;
+    color: black;
     max-width: 300px;
     margin: auto;
     padding: 0.1rem 0.1rem;
-    
+    margin-top: 2rem;
+    font-size: large; 
 }
 

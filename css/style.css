@@ -16,8 +16,7 @@ body{
 .container {
     margin: 0.5rem 0.5rem;
     padding: 2rem 0rem;
-    border-radius: 5%;
-    background-color: white;
+    background-color: #FDE68A;
 }
 
 .container-center {
@@ -35,7 +34,10 @@ body{
     padding: 1rem 1rem;
 }
 
-.text-area {
-    margin: auto;
-    box-sizing: border-box;
+
+.container .box > textarea {
+    width: 40vh;
+    height: 20vh;
+    font-size: x-large;
 }
+
