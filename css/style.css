@@ -41,3 +41,13 @@ body{
     font-size: x-large;
 }
 
+.footer-yellow {
+    background-color: #FBBF24;
+    color: white;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    font-weight: bold;
+}
+
