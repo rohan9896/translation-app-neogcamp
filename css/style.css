@@ -11,6 +11,7 @@
 
 body{
     font-family: 'DM Sans', sans-serif;
+    background-color: #FFFBEB;
 }
 
 .container {
@@ -36,8 +37,12 @@ body{
 
 
 .container .box > textarea {
-    width: 40vh;
-    height: 20vh;
+    /* width: 40vh;
+    height: 20vh; */
+    width: 22rem;
+    height: 7rem;
+    display: flex;
+    justify-content: center;
     font-size: x-large;
 }
 
